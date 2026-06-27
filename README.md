@@ -11,6 +11,7 @@ This project analyzes the Netflix Movies and TV Shows dataset using Python, Pand
 
 ## 📂 Dataset
 Netflix Movies and TV Shows Dataset from Kaggle.
+https://www.kaggle.com/datasets/shivamb/netflix-shows
 
 ## 📊 Analysis Performed
 - Data Cleaning
